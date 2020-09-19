@@ -1,0 +1,7 @@
+C:\Users\padduri\OneDrive - DXC Production\Desktop\DXC\mine\ConsoleAppSalMngmt\ConsoleAppSalMngmt\bin\Debug\ConsoleAppSalMngmt.exe.config
+C:\Users\padduri\OneDrive - DXC Production\Desktop\DXC\mine\ConsoleAppSalMngmt\ConsoleAppSalMngmt\bin\Debug\ConsoleAppSalMngmt.exe
+C:\Users\padduri\OneDrive - DXC Production\Desktop\DXC\mine\ConsoleAppSalMngmt\ConsoleAppSalMngmt\bin\Debug\ConsoleAppSalMngmt.pdb
+C:\Users\padduri\OneDrive - DXC Production\Desktop\DXC\mine\ConsoleAppSalMngmt\ConsoleAppSalMngmt\obj\Debug\ConsoleAppSalMngmt.csprojAssemblyReference.cache
+C:\Users\padduri\OneDrive - DXC Production\Desktop\DXC\mine\ConsoleAppSalMngmt\ConsoleAppSalMngmt\obj\Debug\ConsoleAppSalMngmt.csproj.CoreCompileInputs.cache
+C:\Users\padduri\OneDrive - DXC Production\Desktop\DXC\mine\ConsoleAppSalMngmt\ConsoleAppSalMngmt\obj\Debug\ConsoleAppSalMngmt.exe
+C:\Users\padduri\OneDrive - DXC Production\Desktop\DXC\mine\ConsoleAppSalMngmt\ConsoleAppSalMngmt\obj\Debug\ConsoleAppSalMngmt.pdb
